@@ -21,7 +21,6 @@ for i in range(20):
         'dy': 2,
         'still': False
     })
-
 while(1):
     canvas.delete("all")
     red_ball_x, red_ball_y = 400 // 2, 400 // 2
